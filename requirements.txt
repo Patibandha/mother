@@ -1,1 +1,11 @@
 # this is our requirements 
+Part #1
+Need to create an application which will scan following site to scan for deals which is provided highest discounted price
+(1) walmart
+(2) Target
+(3) Kohl's
+get most discounted items, best deal items and provide platform to buy it.
+scane all website data and stream the data in our application get all details on it
+
+Part #2 
+get purchase module establish the payment from our website and place order for the respected websites
